@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-![Harrison's GitHub stats](https://github-readme-stats.vercel.app/api?username=leathalman&hide=contribs&count_private=true)
-
+- 🔭 I’m currently working on Jotify
+- 🌱 I'm currently learning SwiftUI
+- 📫 How to reach me: h@harrisonleath.me
 
 <!--
 **leathalman/leathalman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
