@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Jotify
-- 🌱 I'm currently learning SwiftUI
+- 🌱 I'm currently learning React
 - 📫 How to reach me: h@harrisonleath.me
 
 <!--
