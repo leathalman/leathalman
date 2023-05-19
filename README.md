@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Jotify
+- 🔭 I’m currently researching neural networks
 - 📫 How to reach me: h@harrisonleath.me
 
 <!--
