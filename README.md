@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently researching neural networks
+- 🔭 I’m currently researching reinforcement learning models
 - 📫 How to reach me: h@harrisonleath.me
 
 <!--
