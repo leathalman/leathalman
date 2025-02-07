@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently researching reinforcement learning models
-- 📫 How to reach me: h@harrisonleath.me
+- 📫 How to reach me: hleath@me.com
 
 <!--
 **leathalman/leathalman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
